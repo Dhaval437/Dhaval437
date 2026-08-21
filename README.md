@@ -1,29 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Dhaval437/Dhaval437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-╔══════════════════════════════════════════════════════════════════════╗
-║  PROFILE README — Dhaval Gandhi (@Dhaval437)                          ║
-║  Repo name MUST equal your username: Dhaval437/Dhaval437             ║
-║  Find & replace: Dhaval437 · Dhaval Gandhi · yourhandle · your@email ║
-╚══════════════════════════════════════════════════════════════════════╝
--->
-
-<!-- ══════════════ BANNER (responsive light / dark) ══════════════ -->
-
 <div align="center">
 
 <picture>
