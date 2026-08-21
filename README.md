@@ -343,13 +343,9 @@ Here are some ideas to get you started:
 
 <h2>🎧 Currently Vibing To</h2>
 
-<!--
-  Connect once at https://spotify-github-profile.kittinanx.com/api/login
-  then paste your generated uid below in place of YOUR_SPOTIFY_UID.
--->
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_UID">
+<a href="https://open.spotify.com/user/31kiij7kkbp6vvbv4eepqdmdj6ie">
   <img
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kiij7kkbp6vvbv4eepqdmdj6ie&cover_image=true&theme=default&show_offline=false&background_color=1d076e&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)"
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kiij7kkbp6vvbv4eepqdmdj6ie&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=EF93C4&bar_color_cover=false"
     alt="Spotify now playing"
     width="360"
   />
