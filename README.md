@@ -299,7 +299,7 @@
 
 <br/>
 
-<a href="[https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/dhaval-gandhi-165258350/)">
+<a href="https://www.linkedin.com/in/dhaval-gandhi-165258350/">
   <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://x.com/Dhaval78595162">
