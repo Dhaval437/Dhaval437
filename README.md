@@ -1,24 +1,3 @@
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1A1A2E,50:EF93C4,100:FF69B4&text=Dhaval%20Gandhi&fontColor=FFFFFF&fontSize=52&fontAlignY=34&desc=AI%20%C2%B7%20LLM%20Systems%20%C2%B7%20Design%20%C2%B7%20Products&descSize=16&descAlignY=54&animation=fadeIn"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FFFFFF,50:F8BBD0,100:EF93C4&text=Dhaval%20Gandhi&fontColor=3D2231&fontSize=52&fontAlignY=34&desc=AI%20%C2%B7%20LLM%20Systems%20%C2%B7%20Design%20%C2%B7%20Products&descSize=16&descAlignY=54&animation=fadeIn"
-  />
-  <img
-    alt="Dhaval Gandhi — AI · LLM Systems · Design · Products"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1A1A2E,50:EF93C4,100:FF69B4&text=Dhaval%20Gandhi&fontColor=FFFFFF&fontSize=52&fontAlignY=34&desc=AI%20%C2%B7%20LLM%20Systems%20%C2%B7%20Design%20%C2%B7%20Products&descSize=16&descAlignY=54&animation=fadeIn"
-    width="100%"
-  />
-</picture>
-
-</div>
-
-<br/>
 
 <!-- ══════════════ TITLE + TYPING ══════════════ -->
 
