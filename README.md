@@ -349,7 +349,7 @@ Here are some ideas to get you started:
 -->
 <a href="https://open.spotify.com/user/YOUR_SPOTIFY_UID">
   <img
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=EF93C4&bar_color_cover=true"
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kiij7kkbp6vvbv4eepqdmdj6ie&cover_image=true&theme=default&show_offline=false&background_color=1d076e&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)"
     alt="Spotify now playing"
     width="360"
   />
