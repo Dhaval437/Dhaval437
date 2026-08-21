@@ -323,23 +323,13 @@ Here are some ideas to get you started:
 
 <br/>
 
-<a href="https://linkedin.com/in/yourhandle">
+<a href="[https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/dhaval-gandhi-165258350/)">
   <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://x.com/yourhandle">
+<a href="https://x.com/Dhaval78595162">
   <img src="https://img.shields.io/badge/X-EF93C4?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
-<a href="https://instagram.com/yourhandle">
-  <img src="https://img.shields.io/badge/Instagram-EF93C4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<br/>
-<a href="https://tiktok.com/@yourhandle">
-  <img src="https://img.shields.io/badge/TikTok-EF93C4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-</a>
-<a href="https://youtube.com/@yourhandle">
-  <img src="https://img.shields.io/badge/YouTube-EF93C4?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="mailto:your@email.com">
+<a href="mailto:dhavalgandhi98221@gmail.com">
   <img src="https://img.shields.io/badge/Email-EF93C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
