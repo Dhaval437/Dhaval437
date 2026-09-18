@@ -51,7 +51,7 @@
 - 🎨 &nbsp;Half engineer, half designer — **Figma, branding, motion, product feel**
 - 🚀 &nbsp;Long game: turning experiments into a **company worth building**
 - ♟️ &nbsp;Off-screen you'll find me playing **chess** or breaking a new AI tool
-- 📫 &nbsp;Reach me at **your@email.com**
+- 📫 &nbsp;Reach me at **dhavalgandhi98221@gmail.com**
 
 <br/>
 
